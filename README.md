@@ -4,7 +4,7 @@ Simple Note App with Modal Window
 ## Table of Contents 
 
 ### App Preview
-![App Preview](../main/note-app-clone/Note-App/images/Preview.jpg)
+![App Preview](../main/images/Preview.jpg)
 
 ### About  
 This is a simple note application which allows the user the create short notes and to delete them, when the note is no longer necessary. When the note is deleted, it is not possible to retrieve it back. The user has to create a new one.
@@ -24,5 +24,5 @@ If the inner note text is long enough to not be showed entirely inside the main 
 By clicking the "enlarge icon" the text will be showed entirely in a new window. In order to close this window and get back to the notes' list, the user has to simply press the "close button".
 
 ### Technologies Used
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)  ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)  ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
