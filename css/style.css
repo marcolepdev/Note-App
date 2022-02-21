@@ -321,7 +321,7 @@ body {
     padding: 5px 5px;
   }
   .big-container .notes-container {
-    width: 300px;
+    width: 305px;
     height: 380px;
     overflow: auto;
     position: relative;
@@ -332,10 +332,12 @@ body {
     margin-bottom: 10px;
   }
   .big-container .notes-container .note .text-container {
-    width: 100%;
+    width: 90%;
+    margin: 0 auto;
+    height: 85px;
   }
   .big-container .notes-container .note .text-container .note-paragraph {
-    padding: 5px 10px 0px 15px;
+    padding: 5px 10px 0px 0px;
   }
   .big-container .notes-container .note .day-and-time .close-icon {
     position: relative;

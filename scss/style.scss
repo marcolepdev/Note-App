@@ -400,7 +400,7 @@ background-color: $white;
 }
 
         .notes-container{
-            width: 300px;
+            width: 305px;
             height: 380px;
             overflow: auto;
             position: relative;
@@ -411,10 +411,12 @@ background-color: $white;
                 margin-bottom: 10px;;
 
                 .text-container{
-                    width:100%;
+                    width:90%;
+                    margin: 0 auto;
+                    height:85px;
 
                     .note-paragraph{
-                        padding:5px 10px 0px 15px;
+                        padding:5px 10px 0px 0px;
                     }
                 }
 
