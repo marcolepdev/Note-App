@@ -402,8 +402,8 @@ background-color: $white;
         .notes-container{
             width: 305px;
             height: 380px;
-            overflow: auto;
             position: relative;
+            overflow-y: auto;
             top:10px;
 
             .note{
