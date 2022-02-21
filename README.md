@@ -4,7 +4,7 @@ Simple Note App with Modal Window
 ## Table of Contents 
 
 ### App Preview
-![App Preview](../main/note-app-clone/Note-App/images/Preview.jpg)
+![App Preview](../main/images/Preview.jpg)
 
 ### About  
 This is a simple note application which allows the user the create short notes and to delete them, when the note is no longer necessary. When the note is deleted, it is not possible to retrieve it back. The user has to create a new one.
